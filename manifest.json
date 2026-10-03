@@ -1,0 +1,519 @@
+{
+  "mods": [
+    {
+      "filename": "BridgingMod-2.6.2-1.21.1.neoforge-release.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/BridgingMod-2.6.2-1.21.1.neoforge-release.jar",
+      "sha256": "382f3688c1a6c93ae96c12e8c7b3f529aa1a2f7dd07c2aaabda5e0b28464715b"
+    },
+    {
+      "filename": "CreateDragonsPlus-1.11.2b.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/CreateDragonsPlus-1.11.2b.jar",
+      "sha256": "9b15e464465a639de9ef5a935ae9fd94ea545904517d1428bc784a4012e0a1e2"
+    },
+    {
+      "filename": "CreateNumismatics-1.0.20%2Bneoforge-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/CreateNumismatics-1.0.20%2Bneoforge-mc1.21.1.jar",
+      "sha256": "1375ba1b50e53fd09435029b5b2d5b94779ba397cca7e01180d07b0f624e5b9b"
+    },
+    {
+      "filename": "CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/CreativeCore_NEOFORGE_v2.13.41_mc1.21.1.jar",
+      "sha256": "bd4164b9ec8e21775e34a99a8d21e5280ee8cc6d3bd003a1b32dc3ada59ae887"
+    },
+    {
+      "filename": "CreativeCore_NEOFORGE_v2.13.50_mc1.21.1 (1).jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/CreativeCore_NEOFORGE_v2.13.50_mc1.21.1 (1).jar",
+      "sha256": "d07f802239ab6b9b7fb1c7cc0ce607540d34efb4584bc27eebb9d6bd153522d6"
+    },
+    {
+      "filename": "FarmersDelight-1.21.1-1.3.4.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/FarmersDelight-1.21.1-1.3.4.jar",
+      "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c"
+    },
+    {
+      "filename": "GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
+      "sha256": "9362e2faacc6c864a91c5d0f452305fe7a496aa6c91131af63d021f1baa773a7"
+    },
+    {
+      "filename": "ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
+      "sha256": "15bf9bd6d8e3ae8ad35c5a4d90680424b534d9762d698c0a466965afcab5dd78"
+    },
+    {
+      "filename": "InvMove-0.9.3+1.21.1-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/InvMove-0.9.3+1.21.1-NeoForge.jar",
+      "sha256": "e84329e06d40346a88b3eda5985500ded34efad2ad30c43f1dd3a486eff58d1b"
+    },
+    {
+      "filename": "InventoryParticles-3.2.0+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/InventoryParticles-3.2.0+1.21.1+neoforge.jar",
+      "sha256": "2e2b7f841b9765594615b664b2b28dd5cd4219d376538e6b7325b133ead9603b"
+    },
+    {
+      "filename": "ItemPhysic_NEOFORGE_v1.8.17_mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/ItemPhysic_NEOFORGE_v1.8.17_mc1.21.1.jar",
+      "sha256": "71e6085c5a31fa4c5dce3908ce41a7f896c6a67f122fa062a5913971d02d0ac9"
+    },
+    {
+      "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "sha256": "276f1f65a20d04f536989c4f311949d770b52c440c23c2b904a08860f3c93810"
+    },
+    {
+      "filename": "L_Ender-s-Cataclysm-1.21.1-3.33-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/L_Ender-s-Cataclysm-1.21.1-3.33-1.21.1.jar",
+      "sha256": "371956d0c2e3b56729ee93b955e936875d210e372fe734cdb74326d89ef79875"
+    },
+    {
+      "filename": "Quark-4.1-485-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/Quark-4.1-485-1.21.1.jar",
+      "sha256": "40808b4094b8e4987c14211f4c021ad42c3a4ac2543f6af4163b8020016b0925"
+    },
+    {
+      "filename": "ToughAsNails-neoforge-1.21.1-10.1.0.13.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/ToughAsNails-neoforge-1.21.1-10.1.0.13.jar",
+      "sha256": "e33152a9a357de4a203cd51117b549eb8d4657e1a8ab8e95b2cf7b91172b5ad3"
+    },
+    {
+      "filename": "TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/TreeChop-1.21.1-neoforge-0.19.3.jar",
+      "sha256": "2a5ec9cca187b4a031e9dd7e5eec8d0872f7d2bc355d88bda633021fa7eb71b0"
+    },
+    {
+      "filename": "Zeta-1.1-40.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/Zeta-1.1-40.jar",
+      "sha256": "4f17d1a2b9fd6d18ddb7697aa451db7fb154053b8648f79de279ae0d7e68a2fa"
+    },
+    {
+      "filename": "a_good_place-1.21-1.2.5-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/a_good_place-1.21-1.2.5-neoforge.jar",
+      "sha256": "5c85842f53d03503f0d4e75cd702cf8415fc09e18fb1c3b9fdd45638a8feaa1b"
+    },
+    {
+      "filename": "architectury-13.0.11-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/architectury-13.0.11-neoforge-1.21.1.jar",
+      "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb"
+    },
+    {
+      "filename": "balm-neoforge-1.21.1-21.0.66.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/balm-neoforge-1.21.1-21.0.66.jar",
+      "sha256": "6be660e1f6d169553bf44f66d4f78bb9e96a1d66ce108d9608819e3ce6bfba34"
+    },
+    {
+      "filename": "boatiview-neoforge-0.0.6-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/boatiview-neoforge-0.0.6-1.21.1.jar",
+      "sha256": "c08f1c2188ab79b4f4085a72d98796d3c59fc3f836c6ce1f3755ea5b8928c77c"
+    },
+    {
+      "filename": "born_in_chaos_-Neoforge-_1.21.1_1.7.6.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/born_in_chaos_-Neoforge-_1.21.1_1.7.6.jar",
+      "sha256": "a0271a24db8622434d9573c5e789d451a05c9211173885049284e1911e2499c7"
+    },
+    {
+      "filename": "chat_heads-0.15.7-neoforge-1.21.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/chat_heads-0.15.7-neoforge-1.21.jar",
+      "sha256": "02e10437ceeed34e14e0efe206204658e4b8aa8ee7df10f2a9e28ac20f1b0391"
+    },
+    {
+      "filename": "clickthrough-plus-neoforge-3.5.0+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/clickthrough-plus-neoforge-3.5.0+1.21.1.jar",
+      "sha256": "5c0537499f5ec0caebc471dbe8fa2bda7b5d095b2f7fea3d95405fad9052d061"
+    },
+    {
+      "filename": "cloth-config-15.0.140-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/cloth-config-15.0.140-neoforge-1.21.1.jar",
+      "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
+    },
+    {
+      "filename": "coroutil-neoforge-1.21.0-1.3.8.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "sha256": "9b32bcf2c793d33b93b5d4739c0dc4b64231025c7dc5fe40732b66d7cf4b2826"
+    },
+    {
+      "filename": "create-1.21.1-6.0.10.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/create-1.21.1-6.0.10.jar",
+      "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
+    },
+    {
+      "filename": "create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/create-aeronautics-bundled-1.21.1-1.3.0.jar",
+      "sha256": "482c90e0e6fe72f33fe7abb079e5fda581cd660ee53c38c44448a64283e1044c"
+    },
+    {
+      "filename": "create-central-kitchen-2.5.0.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/create-central-kitchen-2.5.0.jar",
+      "sha256": "ef581fb9e62ffda6bf5e1c6854847f5e53fe7dd43adb4c1a318426481468afec"
+    },
+    {
+      "filename": "create-confectionery1.21.1_v1.1.3b.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/create-confectionery1.21.1_v1.1.3b.jar",
+      "sha256": "1a5022528f5c06bf2cdd39c71169c90cd61e80c3f44879c747a7debd63e25a96"
+    },
+    {
+      "filename": "create-dyn-light-forge-1.21.1-2.0.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/create-dyn-light-forge-1.21.1-2.0.1.jar",
+      "sha256": "e2cb38a04c9808b559b7aeb0b21af9d50e86a40f9cf5f8a0975260e11d2b45d1"
+    },
+    {
+      "filename": "create_connected-1.3.2-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/create_connected-1.3.2-mc1.21.1.jar",
+      "sha256": "90bdceac63cb0ebd5e51351e22136182b996512edef937d0635d2857b0a3f24b"
+    },
+    {
+      "filename": "create_deep_dark-3.0.2-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/create_deep_dark-3.0.2-neoforge-1.21.1.jar",
+      "sha256": "7e1fe63771b9a586a6f5740cb4dbc653e0d7a44f17538db67ad6ce843362112b"
+    },
+    {
+      "filename": "create_optical-0.4.2.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/create_optical-0.4.2.jar",
+      "sha256": "52d32c5362617c7b796efbc1a588e4d844107252fe30c5645eb10741d5c090bd"
+    },
+    {
+      "filename": "create_radar-0.4.9.4-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/create_radar-0.4.9.4-1.21.1.jar",
+      "sha256": "4554359fee389b1c255b4cef23ac41e978b2a371cec9e952185f4ec0a90ee930"
+    },
+    {
+      "filename": "create_submarine-2.2.4.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/create_submarine-2.2.4.jar",
+      "sha256": "87a20bb20ae3c90e6838073d3a84839e251c8794f409ade8cab79f51d1de0c66"
+    },
+    {
+      "filename": "create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/create_things_and_misc-4.1.1-neoforge-1.21.1.jar",
+      "sha256": "37cfe32ca602a37bd21307e6f456a35788c30315722f14e07326ff555d188fc0"
+    },
+    {
+      "filename": "create_vibrant_vaults-0.3.2.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/create_vibrant_vaults-0.3.2.jar",
+      "sha256": "cebf5d1d1793fbfc2ee25b63d6f929910ad04ff72da5c1a6987d33961708cff1"
+    },
+    {
+      "filename": "createaddition-1.6.0.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/createaddition-1.6.0.jar",
+      "sha256": "41876c3780b70365a1848994d146a73423cc19fbe86485885795d9e7d855e7e9"
+    },
+    {
+      "filename": "createbigcannons-5.11.7%2Bmc.1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/createbigcannons-5.11.7%2Bmc.1.21.1.jar",
+      "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
+    },
+    {
+      "filename": "createcobblestone-1.4.11%2Bneoforge-1.21.1-140.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/createcobblestone-1.4.11%2Bneoforge-1.21.1-140.jar",
+      "sha256": "18a9394c551db01a7b18293678c0bb143098c05e8ee81fa52bf9c809e5f7986c"
+    },
+    {
+      "filename": "createimmersivetacz-1.5-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/createimmersivetacz-1.5-neoforge.jar",
+      "sha256": "e3c7ae61eb7012d5f036569aad02a14e24216a978ecb4128e65caf1d8dcb5fa5"
+    },
+    {
+      "filename": "createpropulsion-1.1.4.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/createpropulsion-1.1.4.jar",
+      "sha256": "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1"
+    },
+    {
+      "filename": "createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/createthreadedtrains-neoforge-1.21.1-1.0.0.jar",
+      "sha256": "cac002b0fb77ec1dd48cf76a07dd5f2341b632788e1add768cf5c555823e4b38"
+    },
+    {
+      "filename": "curios-neoforge-9.5.1-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/curios-neoforge-9.5.1-1.21.1.jar",
+      "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
+    },
+    {
+      "filename": "delightlib-26.05.18-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/delightlib-26.05.18-1.21-neoforge.jar",
+      "sha256": "12cec5fe907a23a975898948352868d5cbcf5fd5cab7aad415750becdcc7c5c4"
+    },
+    {
+      "filename": "dungeons-and-taverns-v4.4.4-NeoForge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/dungeons-and-taverns-v4.4.4-NeoForge.jar",
+      "sha256": "1db28e89e0cb76aebe9e40955d1866e8ac1779575d15c2a1e250ac804a762d05"
+    },
+    {
+      "filename": "easy-villagers-neoforge-1.21.1-1.1.42.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/easy-villagers-neoforge-1.21.1-1.1.42.jar",
+      "sha256": "e093c86ce419fc1fab1533bed5fa95b509b1f7240760c5ab628de228b55c9d50"
+    },
+    {
+      "filename": "ecologics-1.21.1-2.3.7.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/ecologics-1.21.1-2.3.7.jar",
+      "sha256": "1fb3ce04b425018154a63d8719bfcf1418734ea7e36b71bd10e7aa0c773cbeae"
+    },
+    {
+      "filename": "emotecraft-for-mc1.21.1-2.4.12-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/emotecraft-for-mc1.21.1-2.4.12-neoforge.jar",
+      "sha256": "8cff63e900acd55bb39d41978cc2a70a974e326e2038c30ff20ccfde4c953a43"
+    },
+    {
+      "filename": "entityculling-neoforge-1.10.2-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
+      "sha256": "20014df18edb983b2c8eb764e70209ef84a4ac5aefd29ef25502fb102b0306cd"
+    },
+    {
+      "filename": "fancyblockparticles-1.21.1-neoforge-21.1.6.0.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/fancyblockparticles-1.21.1-neoforge-21.1.6.0.jar",
+      "sha256": "aad72c2d4758b5693b7db799eed49c77ade75c2596b84e2e17356cad75471c01"
+    },
+    {
+      "filename": "fancytabsections-6.2.1-NEOFORGE-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/fancytabsections-6.2.1-NEOFORGE-1.21.1.jar",
+      "sha256": "efd2484970f83a5cdc20365fc5e0a1ac7b779b8734b108519a9dec3a5f3193b2"
+    },
+    {
+      "filename": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/ferritecore-7.0.3-neoforge.jar",
+      "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
+    },
+    {
+      "filename": "forgematica-0.4.2-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/forgematica-0.4.2-mc1.21.1.jar",
+      "sha256": "e19f1653c2f72c771bca2c21519620b71cb32511e25698ba70d5654d50e96c2d"
+    },
+    {
+      "filename": "ftb-library-neoforge-2101.1.36.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/ftb-library-neoforge-2101.1.36.jar",
+      "sha256": "5122579e4d55d77057e98a1403b6006dde95d397976fc3c2ee7dd066747c696f"
+    },
+    {
+      "filename": "ftb-quests-neoforge-2101.1.36.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/ftb-quests-neoforge-2101.1.36.jar",
+      "sha256": "6a39982c4b3afc00b1e788041a4f0d394e1659e3b3a6e5d078cd790bc36d0018"
+    },
+    {
+      "filename": "ftb-teams-neoforge-2101.1.11.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/ftb-teams-neoforge-2101.1.11.jar",
+      "sha256": "e6bcd670493624e6906df872a9c6af4a33fe6405cac57a32c59cd4cd5838c655"
+    },
+    {
+      "filename": "fwa+1.21.1-neoforge-1.2.31.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/fwa+1.21.1-neoforge-1.2.31.jar",
+      "sha256": "bb57d6ab7161b3ef0e72a67537728dfc4aee706b4b15a367362903623d8ce1b0"
+    },
+    {
+      "filename": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+      "sha256": "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47"
+    },
+    {
+      "filename": "gpushift-universal-1.21.1-1.2.8-bugfix.2.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/gpushift-universal-1.21.1-1.2.8-bugfix.2.jar",
+      "sha256": "06673ff2c8611366358f34c7b315d11e3e3ac7e2429fac2360a3c12a70e66c4e"
+    },
+    {
+      "filename": "gravestone-neoforge-1.21.1-1.0.40.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/gravestone-neoforge-1.21.1-1.0.40.jar",
+      "sha256": "204be9ccb8632a56a87aee9aab4c7874d0f6749f566c07f5dd420d24e24dc8b0"
+    },
+    {
+      "filename": "inventoryhud.neoforged.1.21.1-3.4.28.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/inventoryhud.neoforged.1.21.1-3.4.28.jar",
+      "sha256": "1bbd368273b299857ccdb236d096169d289513f67e7561d4743375b55f5a584a"
+    },
+    {
+      "filename": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
+    },
+    {
+      "filename": "jei-1.21.1-neoforge-19.44.0.405.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/jei-1.21.1-neoforge-19.44.0.405.jar",
+      "sha256": "b2fb92ef7804733ed5156268cafe2bd9743ab1269c1e8189163be2a2f669b225"
+    },
+    {
+      "filename": "journeymap-neoforge-1.21.1-6.0.9.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/journeymap-neoforge-1.21.1-6.0.9.jar",
+      "sha256": "9bd7734542233d5281750572f17a9258449e826650c081e9a67dc426262c2fde"
+    },
+    {
+      "filename": "kotlinforforge-5.10.0-all.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/kotlinforforge-5.10.0-all.jar",
+      "sha256": "113ed703323efec1933be98f38d0b1fb4a8bdec5c1c7c250e83a7db7778baeff"
+    },
+    {
+      "filename": "libIPN-neoforge-1.21.1-6.6.3.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/libIPN-neoforge-1.21.1-6.6.3.jar",
+      "sha256": "98f061ba69d31764fa10ab7810ca49062633e107a6b261ba3b66dc25ba5fef7b"
+    },
+    {
+      "filename": "libtooltips-2.3.1-NEOFORGE-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/libtooltips-2.3.1-NEOFORGE-1.21.1.jar",
+      "sha256": "7df716115c9a2af0d373056acaaf31ff5b0e6d3c8c0ead1aee4e857e7af3ec4f"
+    },
+    {
+      "filename": "lidless-neoforge-0.2.0mc1.21-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/lidless-neoforge-0.2.0mc1.21-1.21.1.jar",
+      "sha256": "be7fea6aff5e3aef94f9642333bcbd34aa720cdd5610c6d5d90c8b85456244bc"
+    },
+    {
+      "filename": "lionfishapi-3.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/lionfishapi-3.1.jar",
+      "sha256": "aeebf0692650afbbc78259c0d4e3d5b7edf037707e8ae5d56045066d83a19cf6"
+    },
+    {
+      "filename": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "sha256": "488f33216030c1cb0baa33e59de3d657d08d5795a6c2080c8c8bbbc133fc8757"
+    },
+    {
+      "filename": "lithostitched-1.8.0-neoforge-21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/lithostitched-1.8.0-neoforge-21.1.jar",
+      "sha256": "204699b4e3aa3176e2da5b145c6c66887363821f2bd671ba77bd94750036e169"
+    },
+    {
+      "filename": "mafglib-0.4.3+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/mafglib-0.4.3+mc1.21.1.jar",
+      "sha256": "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
+    },
+    {
+      "filename": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+      "sha256": "87261e309f5e10c9910169d5acbba613cab3a2d2270698b0bd47e657a45b0518"
+    },
+    {
+      "filename": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "sha256": "e6e9446890f0feb3aab3f6e73ae18cb17575c370f232179fef7baa30e61538fe"
+    },
+    {
+      "filename": "modnametooltip-1.21.1-neoforge-2.3.0.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/modnametooltip-1.21.1-neoforge-2.3.0.jar",
+      "sha256": "41ae4040808e06f796d53dd4f68df266c1a6f5230b915fd16e359965c826467f"
+    },
+    {
+      "filename": "moonlight-1.21.1-3.7.0-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/moonlight-1.21.1-3.7.0-neoforge.jar",
+      "sha256": "932b8c8ea86dff39903862383e0ffde6ada9569254ed9b7ccb05ac1b2992c711"
+    },
+    {
+      "filename": "moredelight-26.05.20a-1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/moredelight-26.05.20a-1.21-neoforge.jar",
+      "sha256": "7b261107157f8fc3273bf75707dbf4b32e3f7d4c1ca116f4bad8b45984ccd83a"
+    },
+    {
+      "filename": "mossylib-1.6.01.21.1neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/mossylib-1.6.01.21.1neoforge.jar",
+      "sha256": "7d19659babdb11979819b9e247587939dfe314cb9b837b201e5bd0e6cc6ca242"
+    },
+    {
+      "filename": "mousetweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/mousetweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
+    },
+    {
+      "filename": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/netherportalfix-neoforge-1.21.1-21.1.1.jar",
+      "sha256": "c1077de0c7f1ff5289d1852e0674d9c477247d4318c9809b21c60e56a31ae31a"
+    },
+    {
+      "filename": "puzzleslib-v21.1.62-mc1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/puzzleslib-v21.1.62-mc1.21.1-neoforge.jar",
+      "sha256": "db5d694d964f2feb7029406be99237f080242fd1b6d075a6a042e1195731a469"
+    },
+    {
+      "filename": "resourcify-1.21.1-neoforge-1.8.5.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/resourcify-1.21.1-neoforge-1.8.5.jar",
+      "sha256": "ca3a7a57b37e63948fd774275aa6a7e0ce68c5395ac2418f328e349f683891d6"
+    },
+    {
+      "filename": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+    },
+    {
+      "filename": "sable-neoforge-1.21.1-2.0.5.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/sable-neoforge-1.21.1-2.0.5.jar",
+      "sha256": "c8710f85bc780bbf523e6726ceaaf76dd0b8c61479db497b382c6bb34317e7ab"
+    },
+    {
+      "filename": "selling_bin-1.6-NEOFORGE-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/selling_bin-1.6-NEOFORGE-1.21.1.jar",
+      "sha256": "025c96f5cf1ab531e75d11ef9ed655fe64878dd4228d73b26c419b688e3abf7d"
+    },
+    {
+      "filename": "simplyspeakers-neoforge-1.21.1-0.8.0.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/simplyspeakers-neoforge-1.21.1-0.8.0.jar",
+      "sha256": "2c3aae6f5deac1d2c8ede06ac78e6e58b0c49f894e0efa334d3582ecc59a5412"
+    },
+    {
+      "filename": "smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/smoothswapping-0.9.3.2-1.21.1-neoforge.jar",
+      "sha256": "c1187b545097df22c528e9339902ab3631bea2da2b94f7b1569faabbc548d041"
+    },
+    {
+      "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "sha256": "575d187b15328d7bddd8a9b1bee64333c22c14735f5780ec49eac0cd5503c08d"
+    },
+    {
+      "filename": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "sha256": "d78002d50865db928fbf2c17c716ffcbbd6d33bff88aa1f0f3a04152a2665e25"
+    },
+    {
+      "filename": "sophisticatedbackpacks-1.21.1-3.26.6.2174.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/sophisticatedbackpacks-1.21.1-3.26.6.2174.jar",
+      "sha256": "084c6687249c9c94339a7c615db362f63f95abe3b36ef52ec14a070388c9c543"
+    },
+    {
+      "filename": "sophisticatedcore-1.21.1-1.5.2.2343.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/sophisticatedcore-1.21.1-1.5.2.2343.jar",
+      "sha256": "91f4d52d4b10c60ecf28e42672c296e680ccd9e693c7e27d79fef568189c2f13"
+    },
+    {
+      "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
+      "sha256": "65372ad64422a20f03ad6e39aabaa827c191abbe9be5c35631acc3a8105fe177"
+    },
+    {
+      "filename": "starcatcher-3.3.2-NEOFORGE-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/starcatcher-3.3.2-NEOFORGE-1.21.1.jar",
+      "sha256": "45f20e596094a0e93baec2daf081df9921dc8f2f65f23d143a31cb58f7ff63dd"
+    },
+    {
+      "filename": "supplementaries-1.21.1-3.9.9-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/supplementaries-1.21.1-3.9.9-neoforge.jar",
+      "sha256": "d6876ad959d0da4bab0ba182839a0af0e38ef3571345e5e7aea0be572f958e05"
+    },
+    {
+      "filename": "swinginglanterns-neoforge-1.21.1-2.0.2.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/swinginglanterns-neoforge-1.21.1-2.0.2.jar",
+      "sha256": "f09d2d15c6be1bade1f6a494c6da12ad67b9ca7100ad2fcb67a1f63ff4b12dd5"
+    },
+    {
+      "filename": "tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
+      "sha256": "58f6ab47c59218bdb10bb9eee1905b6cd27f3bc98d4af13982a6002a99b1d3e7"
+    },
+    {
+      "filename": "tectonic-3.0.28-neoforge-21.1.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/tectonic-3.0.28-neoforge-21.1.jar",
+      "sha256": "cf188c70e7dd94f6e3a81cef9fe99f1151f13217809f7576aaedb0c3e6547ae1"
+    },
+    {
+      "filename": "tinyredstone-1.21.1-6.1.6.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/tinyredstone-1.21.1-6.1.6.jar",
+      "sha256": "d558c242570fa5a2305ac4d8d944eab960ee0aabca9233073796e9ac8dcb2e74"
+    },
+    {
+      "filename": "tinyskeletons-v21.1.0-1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/tinyskeletons-v21.1.0-1.21.1-neoforge.jar",
+      "sha256": "cf3b5094c2619bd7e7951a3d4a2c553b9ead3932ebdb4ac577f9599461261da9"
+    },
+    {
+      "filename": "watut-neoforge-1.21.0-1.2.7.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/watut-neoforge-1.21.0-1.2.7.jar",
+      "sha256": "b1aac4b9832e16439ee86f27814f7b6a42f2f6bea0ea6949dfffffcd0599d88c"
+    },
+    {
+      "filename": "yet_another_config_lib_v3-3.8.21.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/l1vensi/my-modpack/main/mods/yet_another_config_lib_v3-3.8.21.21.1-neoforge.jar",
+      "sha256": "b5c30321b46cfaa521645a04aff89d2804d8167a25bb23ad4b1ae8da73093a2f"
+    }
+  ]
+}
